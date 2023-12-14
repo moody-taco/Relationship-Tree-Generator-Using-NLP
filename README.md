@@ -1,5 +1,5 @@
-# Relationship-Tree-Generator-Using-NLP
-This project takes a simple sentence as an input and generates a relationship tree based on the mentioned relationships in the string.
+# Relationship-Graph-Generator-Using-NLP
+This project takes a simple sentence as an input and generates a relationship graph based on the mentioned relationships in the string.
 
 ## Running the code:
 The code is split into TWO main parts: NLP and Visualization. To run the code, we can just excute each cell in order and it should work. make sure to pip install all the mentioned packages.
